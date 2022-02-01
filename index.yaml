@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-helm-rish:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2022-02-01T10:08:05.518138983Z"
+    description: my custom helm chart
+    digest: 1317171ad53984d1f3979e409bd890a0091e7f03016f98a44dabb02a4d63776e
+    name: my-helm-rish
+    urls:
+    - my-helm-rish-0.2.0.tgz
+    version: 0.2.0
+generated: "2022-02-01T10:08:05.517057305Z"
